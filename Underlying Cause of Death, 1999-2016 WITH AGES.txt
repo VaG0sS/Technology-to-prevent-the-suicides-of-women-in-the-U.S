@@ -1,0 +1,964 @@
+"Notes"	"State"	"State Code"	"Gender"	"Gender Code"	"Year"	"Year Code"	"Cause of death"	"Cause of death Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+"Total"	"Alabama"	"01"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			11	2183862	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	11	149864	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	11	178767	Unreliable
+"Total"	"Alabama"	"01"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			73	2183862	3.3
+"Total"	"Alabama"	"01"	"Female"	"F"	"2012"	"2012"					86	2183862	3.9
+	"Alabama"	"01"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	15	161341	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	11	163070	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	13	173413	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	12	152437	Unreliable
+"Total"	"Alabama"	"01"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			81	2192391	3.7
+"Total"	"Alabama"	"01"	"Female"	"F"	"2013"	"2013"					87	2192391	4.0
+	"Alabama"	"01"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	14	177590	Unreliable
+"Total"	"Alabama"	"01"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			76	2204319	3.4
+"Total"	"Alabama"	"01"	"Female"	"F"	"2014"	"2014"					86	2204319	3.9
+"Total"	"Alabama"	"01"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			15	2211625	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	12	158584	Unreliable
+"Total"	"Alabama"	"01"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			75	2211625	3.4
+"Total"	"Alabama"	"01"	"Female"	"F"	"2015"	"2015"					92	2211625	4.2
+"Total"	"Alabama"	"01"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			16	2215372	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	11	151388	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	15	176243	Unreliable
+	"Alabama"	"01"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	10	161750	Unreliable
+"Total"	"Alabama"	"01"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			90	2215372	4.1
+"Total"	"Alabama"	"01"	"Female"	"F"	"2016"	"2016"					109	2215372	4.9
+"Total"	"Alabama"	"01"	"Female"	"F"							460	11007569	4.2
+"Total"	"Alabama"	"01"									460	11007569	4.2
+"Total"	"Alaska"	"02"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			12	297601	Unreliable
+"Total"	"Alaska"	"02"	"Female"	"F"	"2013"	"2013"					17	297601	Unreliable
+"Total"	"Alaska"	"02"	"Female"	"F"	"2014"	"2014"					11	297838	Unreliable
+"Total"	"Alaska"	"02"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			14	297511	Unreliable
+"Total"	"Alaska"	"02"	"Female"	"F"	"2015"	"2015"					22	297511	7.4
+"Total"	"Alaska"	"02"	"Female"	"F"	"2016"	"2016"					17	301598	Unreliable
+"Total"	"Alaska"	"02"	"Female"	"F"							75	1493279	5.0
+"Total"	"Alaska"	"02"									75	1493279	5.0
+"Total"	"Arizona"	"04"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			18	2855235	Unreliable
+	"Arizona"	"04"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	12	207350	Unreliable
+"Total"	"Arizona"	"04"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			71	2855235	2.5
+"Total"	"Arizona"	"04"	"Female"	"F"	"2012"	"2012"					96	2855235	3.4
+"Total"	"Arizona"	"04"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			17	2894679	Unreliable
+	"Arizona"	"04"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	10	218247	Unreliable
+	"Arizona"	"04"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	13	211748	Unreliable
+"Total"	"Arizona"	"04"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			78	2894679	2.7
+"Total"	"Arizona"	"04"	"Female"	"F"	"2013"	"2013"					102	2894679	3.5
+"Total"	"Arizona"	"04"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			24	2950391	0.8
+	"Arizona"	"04"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	12	209852	Unreliable
+"Total"	"Arizona"	"04"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			86	2950391	2.9
+"Total"	"Arizona"	"04"	"Female"	"F"	"2014"	"2014"					115	2950391	3.9
+"Total"	"Arizona"	"04"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			19	3001373	Unreliable
+	"Arizona"	"04"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"20-24 years"	"20-24"	10	234579	Unreliable
+	"Arizona"	"04"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	13	220820	Unreliable
+"Total"	"Arizona"	"04"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			95	3001373	3.2
+"Total"	"Arizona"	"04"	"Female"	"F"	"2015"	"2015"					121	3001373	4.0
+"Total"	"Arizona"	"04"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			21	3050547	0.7
+	"Arizona"	"04"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	10	211216	Unreliable
+	"Arizona"	"04"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	17	215839	Unreliable
+"Total"	"Arizona"	"04"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			90	3050547	3.0
+"Total"	"Arizona"	"04"	"Female"	"F"	"2016"	"2016"					118	3050547	3.9
+"Total"	"Arizona"	"04"	"Female"	"F"							552	14752225	3.7
+"Total"	"Arizona"	"04"									552	14752225	3.7
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			35	1308129	2.7
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2012"	"2012"					39	1308129	3.0
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			36	1313711	2.7
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2013"	"2013"					48	1313711	3.7
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			45	1317947	3.4
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2014"	"2014"					52	1317947	3.9
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			58	1325624	4.4
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2015"	"2015"					66	1325624	5.0
+	"Arkansas"	"05"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	14	101657	Unreliable
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			60	1331523	4.5
+"Total"	"Arkansas"	"05"	"Female"	"F"	"2016"	"2016"					73	1331523	5.5
+"Total"	"Arkansas"	"05"	"Female"	"F"							278	6596934	4.2
+"Total"	"Arkansas"	"05"									278	6596934	4.2
+"Total"	"California"	"06"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by drowning and submersion"	"X71"			15	16636186	Unreliable
+	"California"	"06"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"	"45-49 years"	"45-49"	11	1305848	Unreliable
+	"California"	"06"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"	"50-54 years"	"50-54"	18	1321360	Unreliable
+	"California"	"06"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	14	1206697	Unreliable
+	"California"	"06"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"	"60-64 years "	"60-64"	10	1019089	Unreliable
+"Total"	"California"	"06"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			109	16636186	0.7
+"Total"	"California"	"06"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			55	16636186	0.3
+"Total"	"California"	"06"	"Female"	"F"	"2012"	"2012"					187	16636186	1.1
+"Total"	"California"	"06"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by drowning and submersion"	"X71"			14	16789035	Unreliable
+	"California"	"06"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"	"30-34 years"	"30-34"	11	1346427	Unreliable
+	"California"	"06"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"	"50-54 years"	"50-54"	21	1327213	1.6
+	"California"	"06"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	11	1231332	Unreliable
+	"California"	"06"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"	"60-64 years "	"60-64"	18	1043769	Unreliable
+"Total"	"California"	"06"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			128	16789035	0.8
+"Total"	"California"	"06"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			51	16789035	0.3
+"Total"	"California"	"06"	"Female"	"F"	"2013"	"2013"					209	16789035	1.2
+"Total"	"California"	"06"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by drowning and submersion"	"X71"			23	17053094	0.1
+	"California"	"06"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"45-49 years"	"45-49"	10	1289883	Unreliable
+	"California"	"06"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"50-54 years"	"50-54"	16	1342815	Unreliable
+	"California"	"06"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	12	1255723	Unreliable
+	"California"	"06"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"60-64 years "	"60-64"	16	1077744	Unreliable
+	"California"	"06"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"65-69 years"	"65-69"	14	880487	Unreliable
+"Total"	"California"	"06"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			107	17053094	0.6
+	"California"	"06"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	13	1255723	Unreliable
+"Total"	"California"	"06"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			66	17053094	0.4
+"Total"	"California"	"06"	"Female"	"F"	"2014"	"2014"					208	17053094	1.2
+"Total"	"California"	"06"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by drowning and submersion"	"X71"			19	17232428	Unreliable
+	"California"	"06"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"	"45-49 years"	"45-49"	10	1299914	Unreliable
+	"California"	"06"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"	"50-54 years"	"50-54"	16	1333089	Unreliable
+	"California"	"06"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	11	1277268	Unreliable
+"Total"	"California"	"06"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			93	17232428	0.5
+"Total"	"California"	"06"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			58	17232428	0.3
+"Total"	"California"	"06"	"Female"	"F"	"2015"	"2015"					182	17232428	1.1
+"Total"	"California"	"06"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by drowning and submersion"	"X71"			20	17299600	0.1
+	"California"	"06"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"	"45-49 years"	"45-49"	10	1304446	Unreliable
+	"California"	"06"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"	"50-54 years"	"50-54"	11	1303642	Unreliable
+	"California"	"06"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	12	1282686	Unreliable
+	"California"	"06"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"	"60-64 years "	"60-64"	18	1132432	Unreliable
+"Total"	"California"	"06"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			110	17299600	0.6
+"Total"	"California"	"06"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			62	17299600	0.4
+"Total"	"California"	"06"	"Female"	"F"	"2016"	"2016"					204	17299600	1.2
+"Total"	"California"	"06"	"Female"	"F"							990	85010343	1.2
+"Total"	"California"	"06"									990	85010343	1.2
+"Total"	"Colorado"	"08"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			12	2246693	Unreliable
+"Total"	"Colorado"	"08"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			50	2246693	2.2
+"Total"	"Colorado"	"08"	"Female"	"F"	"2012"	"2012"					63	2246693	2.8
+"Total"	"Colorado"	"08"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			20	2285571	0.9
+"Total"	"Colorado"	"08"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			41	2285571	1.8
+"Total"	"Colorado"	"08"	"Female"	"F"	"2013"	"2013"					67	2285571	2.9
+"Total"	"Colorado"	"08"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			15	2329130	Unreliable
+"Total"	"Colorado"	"08"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			48	2329130	2.1
+"Total"	"Colorado"	"08"	"Female"	"F"	"2014"	"2014"					66	2329130	2.8
+"Total"	"Colorado"	"08"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			17	2376671	Unreliable
+"Total"	"Colorado"	"08"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			49	2376671	2.1
+"Total"	"Colorado"	"08"	"Female"	"F"	"2015"	"2015"					71	2376671	3.0
+"Total"	"Colorado"	"08"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			29	2417595	1.2
+"Total"	"Colorado"	"08"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			58	2417595	2.4
+"Total"	"Colorado"	"08"	"Female"	"F"	"2016"	"2016"					92	2417595	3.8
+"Total"	"Colorado"	"08"	"Female"	"F"							359	11655660	3.1
+"Total"	"Colorado"	"08"									359	11655660	3.1
+"Total"	"Connecticut"	"09"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			10	1639161	Unreliable
+"Total"	"Connecticut"	"09"	"Female"	"F"	"2012"	"2012"					14	1639161	Unreliable
+"Total"	"Connecticut"	"09"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			11	1646220	Unreliable
+"Total"	"Connecticut"	"09"	"Female"	"F"	"2014"	"2014"					15	1646220	Unreliable
+"Total"	"Connecticut"	"09"	"Female"	"F"	"2015"	"2015"					17	1646324	Unreliable
+"Total"	"Connecticut"	"09"	"Female"	"F"	"2016"	"2016"					15	1641538	Unreliable
+"Total"	"Connecticut"	"09"	"Female"	"F"							66	8215779	0.8
+"Total"	"Connecticut"	"09"									66	8215779	0.8
+"Total"	"Delaware"	"10"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			13	432757	Unreliable
+"Total"	"Delaware"	"10"	"Female"	"F"	"2015"	"2015"					15	432757	Unreliable
+"Total"	"Delaware"	"10"	"Female"	"F"							43	2135433	2.0
+"Total"	"Delaware"	"10"									43	2135433	2.0
+"Total"	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by drowning and submersion"	"X71"			22	8809142	0.2
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"	"45-49 years"	"45-49"	10	687264	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	11	671999	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			68	8809142	0.8
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	11	602534	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	12	586222	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	14	571494	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	14	637566	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	26	687264	3.8
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	24	712327	3.4
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	18	671999	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	17	630462	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	17	566511	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			180	8809142	2.0
+"Total"	"Florida"	"12"	"Female"	"F"	"2012"	"2012"					281	8809142	3.2
+"Total"	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by drowning and submersion"	"X71"			17	8918782	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"	"45-49 years"	"45-49"	12	671597	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"	"50-54 years"	"50-54"	14	721309	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	11	688468	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			85	8918782	1.0
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"20-24 years"	"20-24"	11	642940	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	11	599059	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	18	636330	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	18	671597	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	26	721309	3.6
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	22	688468	3.2
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	11	635650	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	17	587207	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			169	8918782	1.9
+"Total"	"Florida"	"12"	"Female"	"F"	"2013"	"2013"					279	8918782	3.1
+	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	10	705999	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			73	9089090	0.8
+	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	13	616998	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	14	636168	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	15	662031	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	18	732797	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	22	705999	3.1
+	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	15	654344	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	10	616814	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			143	9089090	1.6
+"Total"	"Florida"	"12"	"Female"	"F"	"2014"	"2014"					235	9089090	2.6
+"Total"	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by drowning and submersion"	"X71"			21	9273978	0.2
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"	"50-54 years"	"50-54"	11	736988	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	10	724887	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			66	9273978	0.7
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"20-24 years"	"20-24"	15	633236	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	12	661872	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	12	632480	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	12	631490	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	20	664011	3.0
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	18	736988	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	19	724887	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	16	676569	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	12	648703	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			164	9273978	1.8
+"Total"	"Florida"	"12"	"Female"	"F"	"2015"	"2015"					259	9273978	2.8
+"Total"	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by drowning and submersion"	"X71"			20	9431749	0.2
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"	"35-39 years"	"35-39"	12	622353	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"	"65-69 years"	"65-69"	10	681248	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			87	9431749	0.9
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	13	683386	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	13	643031	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	13	622353	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	15	621271	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	15	672123	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	21	732130	2.9
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	20	740969	2.7
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	19	697861	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	12	681248	Unreliable
+	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"70-74 years"	"70-74"	16	538401	Unreliable
+"Total"	"Florida"	"12"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			179	9431749	1.9
+"Total"	"Florida"	"12"	"Female"	"F"	"2016"	"2016"					295	9431749	3.1
+"Total"	"Florida"	"12"	"Female"	"F"							1349	45522741	3.0
+"Total"	"Florida"	"12"									1349	45522741	3.0
+"Total"	"Georgia"	"13"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			33	4395135	0.8
+	"Georgia"	"13"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	10	364635	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	17	360629	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	20	353830	5.7
+	"Georgia"	"13"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	11	319422	Unreliable
+"Total"	"Georgia"	"13"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			99	4395135	2.3
+"Total"	"Georgia"	"13"	"Female"	"F"	"2012"	"2012"					137	4395135	3.1
+"Total"	"Georgia"	"13"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			32	4438857	0.7
+	"Georgia"	"13"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	11	356555	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	15	359084	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	10	282370	Unreliable
+"Total"	"Georgia"	"13"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			86	4438857	1.9
+"Total"	"Georgia"	"13"	"Female"	"F"	"2013"	"2013"					124	4438857	2.8
+"Total"	"Georgia"	"13"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			36	4500265	0.8
+	"Georgia"	"13"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	14	363489	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	10	353658	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	18	363417	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	18	332582	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	10	242344	Unreliable
+"Total"	"Georgia"	"13"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			112	4500265	2.5
+"Total"	"Georgia"	"13"	"Female"	"F"	"2014"	"2014"					153	4500265	3.4
+"Total"	"Georgia"	"13"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			38	4565365	0.8
+	"Georgia"	"13"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	11	359088	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	10	356101	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	14	365397	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	10	339799	Unreliable
+"Total"	"Georgia"	"13"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			103	4565365	2.3
+"Total"	"Georgia"	"13"	"Female"	"F"	"2015"	"2015"					146	4565365	3.2
+"Total"	"Georgia"	"13"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			27	4621839	0.6
+	"Georgia"	"13"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	12	349692	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	12	363020	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	21	346247	6.1
+	"Georgia"	"13"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	11	303857	Unreliable
+	"Georgia"	"13"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	10	268206	Unreliable
+"Total"	"Georgia"	"13"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			116	4621839	2.5
+"Total"	"Georgia"	"13"	"Female"	"F"	"2016"	"2016"					147	4621839	3.2
+"Total"	"Georgia"	"13"	"Female"	"F"							707	22521461	3.1
+"Total"	"Georgia"	"13"									707	22521461	3.1
+"Total"	"Hawaii"	"15"	"Female"	"F"							20	3072740	0.7
+"Total"	"Hawaii"	"15"									20	3072740	0.7
+"Total"	"Idaho"	"16"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			10	680927	Unreliable
+"Total"	"Idaho"	"16"	"Female"	"F"	"2012"	"2012"					24	680927	3.5
+"Total"	"Idaho"	"16"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			17	689609	Unreliable
+"Total"	"Idaho"	"16"	"Female"	"F"	"2013"	"2013"					27	689609	3.9
+"Total"	"Idaho"	"16"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			18	699769	Unreliable
+"Total"	"Idaho"	"16"	"Female"	"F"	"2014"	"2014"					27	699769	3.9
+"Total"	"Idaho"	"16"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			11	710413	Unreliable
+"Total"	"Idaho"	"16"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			19	710413	Unreliable
+"Total"	"Idaho"	"16"	"Female"	"F"	"2015"	"2015"					30	710413	4.2
+"Total"	"Idaho"	"16"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			19	723188	Unreliable
+"Total"	"Idaho"	"16"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			16	723188	Unreliable
+"Total"	"Idaho"	"16"	"Female"	"F"	"2016"	"2016"					38	723188	5.3
+"Total"	"Idaho"	"16"	"Female"	"F"							146	3503906	4.2
+"Total"	"Idaho"	"16"									146	3503906	4.2
+"Total"	"Illinois"	"17"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			10	5739973	Unreliable
+"Total"	"Illinois"	"17"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			37	5739973	0.6
+"Total"	"Illinois"	"17"	"Female"	"F"	"2012"	"2012"					55	5739973	1.0
+"Total"	"Illinois"	"17"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			50	5751256	0.9
+"Total"	"Illinois"	"17"	"Female"	"F"	"2013"	"2013"					67	5751256	1.2
+"Total"	"Illinois"	"17"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			44	5765402	0.8
+"Total"	"Illinois"	"17"	"Female"	"F"	"2014"	"2014"					58	5765402	1.0
+"Total"	"Illinois"	"17"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			12	5760043	Unreliable
+"Total"	"Illinois"	"17"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			38	5760043	0.7
+"Total"	"Illinois"	"17"	"Female"	"F"	"2015"	"2015"					57	5760043	1.0
+"Total"	"Illinois"	"17"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			12	5736527	Unreliable
+"Total"	"Illinois"	"17"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			33	5736527	0.6
+"Total"	"Illinois"	"17"	"Female"	"F"	"2016"	"2016"					54	5736527	0.9
+"Total"	"Illinois"	"17"	"Female"	"F"							291	28753201	1.0
+"Total"	"Illinois"	"17"									291	28753201	1.0
+"Total"	"Indiana"	"18"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			12	2895304	Unreliable
+	"Indiana"	"18"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	10	240378	Unreliable
+"Total"	"Indiana"	"18"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			56	2895304	1.9
+"Total"	"Indiana"	"18"	"Female"	"F"	"2012"	"2012"					69	2895304	2.4
+"Total"	"Indiana"	"18"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			16	2912897	Unreliable
+	"Indiana"	"18"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	10	211820	Unreliable
+"Total"	"Indiana"	"18"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			55	2912897	1.9
+"Total"	"Indiana"	"18"	"Female"	"F"	"2013"	"2013"					79	2912897	2.7
+"Total"	"Indiana"	"18"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			12	2927576	Unreliable
+	"Indiana"	"18"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	10	210025	Unreliable
+"Total"	"Indiana"	"18"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			53	2927576	1.8
+"Total"	"Indiana"	"18"	"Female"	"F"	"2014"	"2014"					72	2927576	2.5
+	"Indiana"	"18"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	10	206075	Unreliable
+"Total"	"Indiana"	"18"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			57	2939099	1.9
+"Total"	"Indiana"	"18"	"Female"	"F"	"2015"	"2015"					72	2939099	2.4
+"Total"	"Indiana"	"18"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			14	2945119	Unreliable
+	"Indiana"	"18"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	11	199920	Unreliable
+	"Indiana"	"18"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	11	233406	Unreliable
+"Total"	"Indiana"	"18"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			71	2945119	2.4
+"Total"	"Indiana"	"18"	"Female"	"F"	"2016"	"2016"					88	2945119	3.0
+"Total"	"Indiana"	"18"	"Female"	"F"							380	14619995	2.6
+"Total"	"Indiana"	"18"									380	14619995	2.6
+"Total"	"Iowa"	"19"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			21	1354349	1.6
+"Total"	"Iowa"	"19"	"Female"	"F"	"2012"	"2012"					22	1354349	1.6
+"Total"	"Iowa"	"19"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			13	1361527	Unreliable
+"Total"	"Iowa"	"19"	"Female"	"F"	"2013"	"2013"					20	1361527	1.5
+"Total"	"Iowa"	"19"	"Female"	"F"	"2014"	"2014"					18	1368092	Unreliable
+"Total"	"Iowa"	"19"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			15	1375272	Unreliable
+"Total"	"Iowa"	"19"	"Female"	"F"	"2015"	"2015"					26	1375272	1.9
+"Total"	"Iowa"	"19"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			11	1378749	Unreliable
+"Total"	"Iowa"	"19"	"Female"	"F"	"2016"	"2016"					15	1378749	Unreliable
+"Total"	"Iowa"	"19"	"Female"	"F"							101	6837989	1.5
+"Total"	"Iowa"	"19"									101	6837989	1.5
+"Total"	"Kansas"	"20"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			23	1251428	1.8
+"Total"	"Kansas"	"20"	"Female"	"F"	"2012"	"2012"					30	1251428	2.4
+"Total"	"Kansas"	"20"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			21	1254023	1.7
+"Total"	"Kansas"	"20"	"Female"	"F"	"2013"	"2013"					26	1254023	2.1
+"Total"	"Kansas"	"20"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			20	1259718	1.6
+"Total"	"Kansas"	"20"	"Female"	"F"	"2014"	"2014"					28	1259718	2.2
+"Total"	"Kansas"	"20"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			24	1262962	1.9
+"Total"	"Kansas"	"20"	"Female"	"F"	"2015"	"2015"					31	1262962	2.5
+"Total"	"Kansas"	"20"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			22	1266224	1.7
+"Total"	"Kansas"	"20"	"Female"	"F"	"2016"	"2016"					27	1266224	2.1
+"Total"	"Kansas"	"20"	"Female"	"F"							142	6294355	2.3
+"Total"	"Kansas"	"20"									142	6294355	2.3
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			14	1947360	Unreliable
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			62	1947360	3.2
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2012"	"2012"					80	1947360	4.1
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			17	1958561	Unreliable
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			64	1958561	3.3
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2013"	"2013"					84	1958561	4.3
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			11	1967825	Unreliable
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			66	1967825	3.4
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2014"	"2014"					81	1967825	4.1
+	"Kentucky"	"21"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	13	161041	Unreliable
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			60	1974300	3.0
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2015"	"2015"					72	1974300	3.6
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			11	1979716	Unreliable
+	"Kentucky"	"21"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	10	145267	Unreliable
+	"Kentucky"	"21"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	10	156649	Unreliable
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			73	1979716	3.7
+"Total"	"Kentucky"	"21"	"Female"	"F"	"2016"	"2016"					86	1979716	4.3
+"Total"	"Kentucky"	"21"	"Female"	"F"							403	9827762	4.1
+"Total"	"Kentucky"	"21"									403	9827762	4.1
+	"Louisiana"	"22"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	14	145331	Unreliable
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			71	2043472	3.5
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2012"	"2012"					77	2043472	3.8
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			60	2056683	2.9
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2013"	"2013"					68	2056683	3.3
+	"Louisiana"	"22"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	11	169763	Unreliable
+	"Louisiana"	"22"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	12	147828	Unreliable
+	"Louisiana"	"22"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	15	166325	Unreliable
+	"Louisiana"	"22"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	17	163481	Unreliable
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			91	2070579	4.4
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2014"	"2014"					94	2070579	4.5
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			66	2081306	3.2
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2015"	"2015"					74	2081306	3.6
+	"Louisiana"	"22"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	11	174370	Unreliable
+	"Louisiana"	"22"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	10	167252	Unreliable
+	"Louisiana"	"22"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	10	153321	Unreliable
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			84	2087241	4.0
+"Total"	"Louisiana"	"22"	"Female"	"F"	"2016"	"2016"					93	2087241	4.5
+"Total"	"Louisiana"	"22"	"Female"	"F"							406	10339281	3.9
+"Total"	"Louisiana"	"22"									406	10339281	3.9
+"Total"	"Maine"	"23"	"Female"	"F"	"2012"	"2012"					12	610713	Unreliable
+"Total"	"Maine"	"23"	"Female"	"F"	"2013"	"2013"					12	611231	Unreliable
+"Total"	"Maine"	"23"	"Female"	"F"	"2014"	"2014"					13	612545	Unreliable
+"Total"	"Maine"	"23"	"Female"	"F"	"2015"	"2015"					12	612550	Unreliable
+"Total"	"Maine"	"23"	"Female"	"F"	"2016"	"2016"					11	613543	Unreliable
+"Total"	"Maine"	"23"	"Female"	"F"							60	3060582	2.0
+"Total"	"Maine"	"23"									60	3060582	2.0
+"Total"	"Maryland"	"24"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			15	2674322	Unreliable
+"Total"	"Maryland"	"24"	"Female"	"F"	"2012"	"2012"					19	2674322	Unreliable
+"Total"	"Maryland"	"24"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			23	2691673	0.9
+"Total"	"Maryland"	"24"	"Female"	"F"	"2013"	"2013"					27	2691673	1.0
+"Total"	"Maryland"	"24"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			34	2715168	1.3
+"Total"	"Maryland"	"24"	"Female"	"F"	"2014"	"2014"					38	2715168	1.4
+"Total"	"Maryland"	"24"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			20	2731153	0.7
+"Total"	"Maryland"	"24"	"Female"	"F"	"2015"	"2015"					25	2731153	0.9
+"Total"	"Maryland"	"24"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			21	2737950	0.8
+"Total"	"Maryland"	"24"	"Female"	"F"	"2016"	"2016"					25	2737950	0.9
+"Total"	"Maryland"	"24"	"Female"	"F"							134	13550266	1.0
+"Total"	"Maryland"	"24"									134	13550266	1.0
+"Total"	"Massachusetts"	"25"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			14	3059827	Unreliable
+"Total"	"Massachusetts"	"25"	"Female"	"F"	"2012"	"2012"					23	3059827	0.8
+"Total"	"Massachusetts"	"25"	"Female"	"F"	"2013"	"2013"					13	3083684	Unreliable
+"Total"	"Massachusetts"	"25"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			12	3111854	Unreliable
+"Total"	"Massachusetts"	"25"	"Female"	"F"	"2014"	"2014"					18	3111854	Unreliable
+"Total"	"Massachusetts"	"25"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			11	3136121	Unreliable
+"Total"	"Massachusetts"	"25"	"Female"	"F"	"2015"	"2015"					20	3136121	0.6
+"Total"	"Massachusetts"	"25"	"Female"	"F"	"2016"	"2016"					11	3146597	Unreliable
+"Total"	"Massachusetts"	"25"	"Female"	"F"							85	15538083	0.5
+"Total"	"Massachusetts"	"25"									85	15538083	0.5
+"Total"	"Michigan"	"26"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			11	4448747	Unreliable
+"Total"	"Michigan"	"26"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			39	4448747	0.9
+"Total"	"Michigan"	"26"	"Female"	"F"	"2012"	"2012"					56	4448747	1.3
+"Total"	"Michigan"	"26"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			15	4456540	Unreliable
+"Total"	"Michigan"	"26"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			50	4456540	1.1
+"Total"	"Michigan"	"26"	"Female"	"F"	"2013"	"2013"					75	4456540	1.7
+"Total"	"Michigan"	"26"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			14	4467821	Unreliable
+	"Michigan"	"26"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	11	373839	Unreliable
+"Total"	"Michigan"	"26"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			60	4467821	1.3
+"Total"	"Michigan"	"26"	"Female"	"F"	"2014"	"2014"					80	4467821	1.8
+"Total"	"Michigan"	"26"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			14	4473157	Unreliable
+"Total"	"Michigan"	"26"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			56	4473157	1.3
+"Total"	"Michigan"	"26"	"Female"	"F"	"2015"	"2015"					81	4473157	1.8
+"Total"	"Michigan"	"26"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			18	4474386	Unreliable
+"Total"	"Michigan"	"26"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			64	4474386	1.4
+"Total"	"Michigan"	"26"	"Female"	"F"	"2016"	"2016"					86	4474386	1.9
+"Total"	"Michigan"	"26"	"Female"	"F"							378	22320651	1.7
+"Total"	"Michigan"	"26"									378	22320651	1.7
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2012"	"2012"					20	2360021	0.8
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			21	2379214	0.9
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			18	2379214	Unreliable
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2013"	"2013"					42	2379214	1.8
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			10	2397543	Unreliable
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			17	2397543	Unreliable
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2014"	"2014"					31	2397543	1.3
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by drowning and submersion"	"X71"			10	2412130	Unreliable
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			14	2412130	Unreliable
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			12	2412130	Unreliable
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2015"	"2015"					38	2412130	1.6
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			13	2424242	Unreliable
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			15	2424242	Unreliable
+"Total"	"Minnesota"	"27"	"Female"	"F"	"2016"	"2016"					35	2424242	1.4
+"Total"	"Minnesota"	"27"	"Female"	"F"							166	11973150	1.4
+"Total"	"Minnesota"	"27"									166	11973150	1.4
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			20	1334241	1.5
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			37	1334241	2.8
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2012"	"2012"					58	1334241	4.3
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			17	1336867	Unreliable
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			33	1336867	2.5
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2013"	"2013"					51	1336867	3.8
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			11	1342073	Unreliable
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			20	1342073	1.5
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2014"	"2014"					34	1342073	2.5
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			12	1344800	Unreliable
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			35	1344800	2.6
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2015"	"2015"					49	1344800	3.6
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			13	1347047	Unreliable
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			32	1347047	2.4
+"Total"	"Mississippi"	"28"	"Female"	"F"	"2016"	"2016"					45	1347047	3.3
+"Total"	"Mississippi"	"28"	"Female"	"F"							237	6705028	3.5
+"Total"	"Mississippi"	"28"									237	6705028	3.5
+"Total"	"Missouri"	"29"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			29	2694659	1.1
+"Total"	"Missouri"	"29"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			32	2694659	1.2
+"Total"	"Missouri"	"29"	"Female"	"F"	"2012"	"2012"					69	2694659	2.6
+"Total"	"Missouri"	"29"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			34	2704580	1.3
+"Total"	"Missouri"	"29"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			32	2704580	1.2
+"Total"	"Missouri"	"29"	"Female"	"F"	"2013"	"2013"					69	2704580	2.6
+"Total"	"Missouri"	"29"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			32	2716241	1.2
+	"Missouri"	"29"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	10	224133	Unreliable
+"Total"	"Missouri"	"29"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			38	2716241	1.4
+"Total"	"Missouri"	"29"	"Female"	"F"	"2014"	"2014"					73	2716241	2.7
+"Total"	"Missouri"	"29"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			27	2726320	1.0
+"Total"	"Missouri"	"29"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			38	2726320	1.4
+"Total"	"Missouri"	"29"	"Female"	"F"	"2015"	"2015"					70	2726320	2.6
+"Total"	"Missouri"	"29"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			33	2730372	1.2
+	"Missouri"	"29"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	10	210481	Unreliable
+"Total"	"Missouri"	"29"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			66	2730372	2.4
+"Total"	"Missouri"	"29"	"Female"	"F"	"2016"	"2016"					102	2730372	3.7
+"Total"	"Missouri"	"29"	"Female"	"F"							383	13572172	2.8
+"Total"	"Missouri"	"29"									383	13572172	2.8
+"Total"	"Montana"	"30"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			10	440021	Unreliable
+"Total"	"Montana"	"30"	"Female"	"F"	"2012"	"2012"					20	440021	4.5
+"Total"	"Montana"	"30"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			10	444445	Unreliable
+"Total"	"Montana"	"30"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			14	444445	Unreliable
+"Total"	"Montana"	"30"	"Female"	"F"	"2013"	"2013"					25	444445	5.6
+"Total"	"Montana"	"30"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			10	448165	Unreliable
+"Total"	"Montana"	"30"	"Female"	"F"	"2014"	"2014"					19	448165	Unreliable
+"Total"	"Montana"	"30"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			20	451928	4.4
+"Total"	"Montana"	"30"	"Female"	"F"	"2015"	"2015"					31	451928	6.9
+"Total"	"Montana"	"30"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			17	455965	Unreliable
+"Total"	"Montana"	"30"	"Female"	"F"	"2016"	"2016"					19	455965	Unreliable
+"Total"	"Montana"	"30"	"Female"	"F"							114	2240524	5.1
+"Total"	"Montana"	"30"									114	2240524	5.1
+"Total"	"Nebraska"	"31"	"Female"	"F"	"2013"	"2013"					12	810400	Unreliable
+"Total"	"Nebraska"	"31"	"Female"	"F"	"2015"	"2015"					11	822262	Unreliable
+"Total"	"Nebraska"	"31"	"Female"	"F"							45	4080233	1.1
+"Total"	"Nebraska"	"31"									45	4080233	1.1
+"Total"	"Nevada"	"32"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			45	1187271	3.8
+"Total"	"Nevada"	"32"	"Female"	"F"	"2012"	"2012"					52	1187271	4.4
+"Total"	"Nevada"	"32"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			38	1205263	3.2
+"Total"	"Nevada"	"32"	"Female"	"F"	"2013"	"2013"					44	1205263	3.7
+"Total"	"Nevada"	"32"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			44	1233204	3.6
+"Total"	"Nevada"	"32"	"Female"	"F"	"2014"	"2014"					52	1233204	4.2
+"Total"	"Nevada"	"32"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			47	1259784	3.7
+"Total"	"Nevada"	"32"	"Female"	"F"	"2015"	"2015"					52	1259784	4.1
+"Total"	"Nevada"	"32"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			15	1282686	Unreliable
+"Total"	"Nevada"	"32"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			36	1282686	2.8
+"Total"	"Nevada"	"32"	"Female"	"F"	"2016"	"2016"					60	1282686	4.7
+"Total"	"Nevada"	"32"	"Female"	"F"							260	6168208	4.2
+"Total"	"Nevada"	"32"									260	6168208	4.2
+"Total"	"New Hampshire"	"33"	"Female"	"F"	"2012"	"2012"					15	599384	Unreliable
+"Total"	"New Hampshire"	"33"	"Female"	"F"	"2013"	"2013"					10	601278	Unreliable
+"Total"	"New Hampshire"	"33"	"Female"	"F"	"2014"	"2014"					10	604258	Unreliable
+"Total"	"New Hampshire"	"33"	"Female"	"F"	"2015"	"2015"					19	606598	Unreliable
+"Total"	"New Hampshire"	"33"	"Female"	"F"	"2016"	"2016"					14	608432	Unreliable
+"Total"	"New Hampshire"	"33"	"Female"	"F"							68	3019950	2.3
+"Total"	"New Hampshire"	"33"									68	3019950	2.3
+"Total"	"New Jersey"	"34"	"Female"	"F"	"2012"	"2012"					14	4008518	Unreliable
+"Total"	"New Jersey"	"34"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			15	4021611	Unreliable
+"Total"	"New Jersey"	"34"	"Female"	"F"	"2013"	"2013"					26	4021611	0.6
+"Total"	"New Jersey"	"34"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			18	4045436	Unreliable
+"Total"	"New Jersey"	"34"	"Female"	"F"	"2014"	"2014"					25	4045436	0.6
+"Total"	"New Jersey"	"34"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			12	4058378	Unreliable
+"Total"	"New Jersey"	"34"	"Female"	"F"	"2015"	"2015"					25	4058378	0.6
+"Total"	"New Jersey"	"34"	"Female"	"F"	"2016"	"2016"					14	4054408	Unreliable
+"Total"	"New Jersey"	"34"	"Female"	"F"							104	20188351	0.5
+"Total"	"New Jersey"	"34"									104	20188351	0.5
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			19	911690	Unreliable
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2012"	"2012"					26	911690	2.9
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			25	912687	2.7
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2013"	"2013"					32	912687	3.5
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			22	915544	2.4
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			11	915544	Unreliable
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2014"	"2014"					34	915544	3.7
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			36	916770	3.9
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2015"	"2015"					42	916770	4.6
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			35	919380	3.8
+"Total"	"New Mexico"	"35"	"Female"	"F"	"2016"	"2016"					38	919380	4.1
+"Total"	"New Mexico"	"35"	"Female"	"F"							172	4576071	3.8
+"Total"	"New Mexico"	"35"									172	4576071	3.8
+"Total"	"New York"	"36"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by drowning and submersion"	"X71"			12	8946921	Unreliable
+"Total"	"New York"	"36"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			31	8946921	0.3
+"Total"	"New York"	"36"	"Female"	"F"	"2012"	"2012"					58	8946921	0.6
+"Total"	"New York"	"36"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by drowning and submersion"	"X71"			10	8979819	Unreliable
+"Total"	"New York"	"36"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			24	8979819	0.3
+"Total"	"New York"	"36"	"Female"	"F"	"2013"	"2013"					44	8979819	0.5
+"Total"	"New York"	"36"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by drowning and submersion"	"X71"			11	9028620	Unreliable
+"Total"	"New York"	"36"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			25	9028620	0.3
+"Total"	"New York"	"36"	"Female"	"F"	"2014"	"2014"					47	9028620	0.5
+"Total"	"New York"	"36"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			27	9049351	0.3
+"Total"	"New York"	"36"	"Female"	"F"	"2015"	"2015"					45	9049351	0.5
+"Total"	"New York"	"36"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by drowning and submersion"	"X71"			17	9031273	Unreliable
+"Total"	"New York"	"36"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			31	9031273	0.3
+"Total"	"New York"	"36"	"Female"	"F"	"2016"	"2016"					55	9031273	0.6
+"Total"	"New York"	"36"	"Female"	"F"							249	45035984	0.6
+"Total"	"New York"	"36"									249	45035984	0.6
+	"North Carolina"	"37"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	11	322589	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	17	347450	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	15	353786	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	10	298818	Unreliable
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			103	4381493	2.4
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2012"	"2012"					122	4381493	2.8
+	"North Carolina"	"37"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	16	343427	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	14	357539	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	14	339142	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	11	303213	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	10	256838	Unreliable
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			107	4431901	2.4
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2013"	"2013"					115	4431901	2.6
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			18	4486170	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	14	346207	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	12	360537	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	12	344034	Unreliable
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			111	4486170	2.5
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2014"	"2014"					139	4486170	3.1
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			26	4540291	0.6
+	"North Carolina"	"37"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	10	343749	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	12	360092	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	13	349890	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	10	281372	Unreliable
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			83	4540291	1.8
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2015"	"2015"					116	4540291	2.6
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			29	4603018	0.6
+	"North Carolina"	"37"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	10	329442	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	12	352571	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	14	357434	Unreliable
+	"North Carolina"	"37"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	12	356582	Unreliable
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			98	4603018	2.1
+"Total"	"North Carolina"	"37"	"Female"	"F"	"2016"	"2016"					134	4603018	2.9
+"Total"	"North Carolina"	"37"	"Female"	"F"							626	22442873	2.8
+"Total"	"North Carolina"	"37"									626	22442873	2.8
+"Total"	"North Dakota"	"38"	"Female"	"F"	"2015"	"2015"					10	317735	Unreliable
+"Total"	"North Dakota"	"38"	"Female"	"F"							34	1554667	2.2
+"Total"	"North Dakota"	"38"									34	1554667	2.2
+"Total"	"Ohio"	"39"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			13	5201797	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	10	337932	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	11	404063	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	11	447721	Unreliable
+"Total"	"Ohio"	"39"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			81	5201797	1.6
+"Total"	"Ohio"	"39"	"Female"	"F"	"2012"	"2012"					103	5201797	2.0
+"Total"	"Ohio"	"39"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			20	5214539	0.4
+	"Ohio"	"39"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	12	438582	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	12	431376	Unreliable
+"Total"	"Ohio"	"39"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			82	5214539	1.6
+"Total"	"Ohio"	"39"	"Female"	"F"	"2013"	"2013"					106	5214539	2.0
+"Total"	"Ohio"	"39"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			14	5225515	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	12	381210	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	14	431666	Unreliable
+"Total"	"Ohio"	"39"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			77	5225515	1.5
+"Total"	"Ohio"	"39"	"Female"	"F"	"2014"	"2014"					98	5225515	1.9
+"Total"	"Ohio"	"39"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			19	5234586	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	12	355696	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	12	377322	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	13	421403	Unreliable
+"Total"	"Ohio"	"39"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			86	5234586	1.6
+"Total"	"Ohio"	"39"	"Female"	"F"	"2015"	"2015"					114	5234586	2.2
+"Total"	"Ohio"	"39"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by drowning and submersion"	"X71"			10	5233570	Unreliable
+"Total"	"Ohio"	"39"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			23	5233570	0.4
+	"Ohio"	"39"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	14	377856	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	13	406404	Unreliable
+	"Ohio"	"39"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	15	392416	Unreliable
+"Total"	"Ohio"	"39"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			88	5233570	1.7
+"Total"	"Ohio"	"39"	"Female"	"F"	"2016"	"2016"					124	5233570	2.4
+"Total"	"Ohio"	"39"	"Female"	"F"							545	26110007	2.1
+"Total"	"Ohio"	"39"									545	26110007	2.1
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			55	1667412	3.3
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2012"	"2012"					63	1667412	3.8
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			52	1682298	3.1
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			10	1682298	Unreliable
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2013"	"2013"					64	1682298	3.8
+	"Oklahoma"	"40"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"45-49 years"	"45-49"	10	113964	Unreliable
+	"Oklahoma"	"40"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"50-54 years"	"50-54"	11	132868	Unreliable
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			62	1695972	3.7
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			12	1695972	Unreliable
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2014"	"2014"					79	1695972	4.7
+	"Oklahoma"	"40"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"	"60-64 years "	"60-64"	10	117670	Unreliable
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			60	1710557	3.5
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2015"	"2015"					69	1710557	4.0
+	"Oklahoma"	"40"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"	"40-44 years"	"40-44"	10	113807	Unreliable
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			57	1716664	3.3
+"Total"	"Oklahoma"	"40"	"Female"	"F"	"2016"	"2016"					65	1716664	3.8
+"Total"	"Oklahoma"	"40"	"Female"	"F"							340	8472903	4.0
+"Total"	"Oklahoma"	"40"									340	8472903	4.0
+"Total"	"Oregon"	"41"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			36	1738392	2.1
+"Total"	"Oregon"	"41"	"Female"	"F"	"2012"	"2012"					48	1738392	2.8
+"Total"	"Oregon"	"41"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			45	1756085	2.6
+"Total"	"Oregon"	"41"	"Female"	"F"	"2013"	"2013"					58	1756085	3.3
+"Total"	"Oregon"	"41"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			44	1776354	2.5
+"Total"	"Oregon"	"41"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			10	1776354	Unreliable
+"Total"	"Oregon"	"41"	"Female"	"F"	"2014"	"2014"					59	1776354	3.3
+"Total"	"Oregon"	"41"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			48	1804544	2.7
+"Total"	"Oregon"	"41"	"Female"	"F"	"2015"	"2015"					54	1804544	3.0
+"Total"	"Oregon"	"41"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			52	1832659	2.8
+"Total"	"Oregon"	"41"	"Female"	"F"	"2016"	"2016"					60	1832659	3.3
+"Total"	"Oregon"	"41"	"Female"	"F"							279	8908034	3.1
+"Total"	"Oregon"	"41"									279	8908034	3.1
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			12	5814793	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	12	457147	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	11	498036	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	13	472278	Unreliable
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			77	5814793	1.3
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2012"	"2012"					102	5814793	1.8
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			14	5816708	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	10	389421	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	13	444427	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	11	480747	Unreliable
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			101	5816708	1.7
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2013"	"2013"					125	5816708	2.1
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			12	5822722	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	13	432393	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	14	483091	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	13	485038	Unreliable
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			72	5822722	1.2
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2014"	"2014"					102	5822722	1.8
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by drowning and submersion"	"X71"			11	5829467	Unreliable
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			21	5829467	0.4
+	"Pennsylvania"	"42"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	11	370934	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	10	424695	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	13	474070	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	11	433844	Unreliable
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			98	5829467	1.7
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2015"	"2015"					133	5829467	2.3
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			13	5817702	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	12	365124	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	15	419973	Unreliable
+	"Pennsylvania"	"42"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	20	459838	4.3
+	"Pennsylvania"	"42"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	13	486152	Unreliable
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			101	5817702	1.7
+"Total"	"Pennsylvania"	"42"	"Female"	"F"	"2016"	"2016"					125	5817702	2.1
+"Total"	"Pennsylvania"	"42"	"Female"	"F"							587	29101392	2.0
+"Total"	"Pennsylvania"	"42"									587	29101392	2.0
+"Total"	"Rhode Island"	"44"	"Female"	"F"							33	2440238	1.4
+"Total"	"Rhode Island"	"44"									33	2440238	1.4
+	"South Carolina"	"45"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	11	171866	Unreliable
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			67	2132292	3.1
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2012"	"2012"					75	2132292	3.5
+	"South Carolina"	"45"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	12	170629	Unreliable
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			63	2158383	2.9
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2013"	"2013"					68	2158383	3.2
+	"South Carolina"	"45"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	13	160103	Unreliable
+	"South Carolina"	"45"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	13	172819	Unreliable
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			83	2188932	3.8
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2014"	"2014"					88	2188932	4.0
+	"South Carolina"	"45"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	12	156891	Unreliable
+	"South Carolina"	"45"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	12	160259	Unreliable
+	"South Carolina"	"45"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	11	167338	Unreliable
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			91	2222193	4.1
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2015"	"2015"					100	2222193	4.5
+	"South Carolina"	"45"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	10	162684	Unreliable
+	"South Carolina"	"45"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	12	174624	Unreliable
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			94	2256905	4.2
+"Total"	"South Carolina"	"45"	"Female"	"F"	"2016"	"2016"					104	2256905	4.6
+"Total"	"South Carolina"	"45"	"Female"	"F"							435	10958705	4.0
+"Total"	"South Carolina"	"45"									435	10958705	4.0
+"Total"	"South Dakota"	"46"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			12	365229	Unreliable
+"Total"	"South Dakota"	"46"	"Female"	"F"	"2014"	"2014"					12	365229	Unreliable
+"Total"	"South Dakota"	"46"	"Female"	"F"	"2015"	"2015"					12	367375	Unreliable
+"Total"	"South Dakota"	"46"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			10	369852	Unreliable
+"Total"	"South Dakota"	"46"	"Female"	"F"	"2016"	"2016"					10	369852	Unreliable
+"Total"	"South Dakota"	"46"	"Female"	"F"							42	1822544	2.3
+"Total"	"South Dakota"	"46"									42	1822544	2.3
+	"Tennessee"	"47"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	10	213230	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	13	228748	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	10	163859	Unreliable
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			89	2906292	3.1
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2012"	"2012"					98	2906292	3.4
+	"Tennessee"	"47"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	10	223527	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	12	238719	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	16	231495	Unreliable
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			88	2927792	3.0
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2013"	"2013"					99	2927792	3.4
+	"Tennessee"	"47"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	11	220018	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	15	219389	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	17	239689	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	14	233054	Unreliable
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			95	2955895	3.2
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2014"	"2014"					101	2955895	3.4
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			12	2980515	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	16	238317	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	11	213462	Unreliable
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			75	2980515	2.5
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2015"	"2015"					96	2980515	3.2
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			14	3005782	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	10	208554	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	13	222607	Unreliable
+	"Tennessee"	"47"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	19	234389	Unreliable
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			91	3005782	3.0
+"Total"	"Tennessee"	"47"	"Female"	"F"	"2016"	"2016"					116	3005782	3.9
+"Total"	"Tennessee"	"47"	"Female"	"F"							510	14776276	3.5
+"Total"	"Tennessee"	"47"									510	14776276	3.5
+"Total"	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by drowning and submersion"	"X71"			13	11193032	Unreliable
+"Total"	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			34	11193032	0.3
+	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"20-24 years"	"20-24"	14	937209	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	20	930372	2.1
+	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	22	925423	2.4
+	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	21	879531	2.4
+	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	14	893303	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	24	862527	2.8
+	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	18	873636	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	21	788553	2.7
+	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	15	657310	Unreliable
+"Total"	"Texas"	"48"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			205	11193032	1.8
+"Total"	"Texas"	"48"	"Female"	"F"	"2012"	"2012"					262	11193032	2.3
+"Total"	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			36	11374068	0.3
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"15-19 years"	"15-19"	12	915489	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"20-24 years"	"20-24"	19	951812	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	20	938580	2.1
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	13	945780	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	17	886049	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	22	905874	2.4
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	22	851922	2.6
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	25	880822	2.8
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	28	808641	3.5
+	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	20	674619	3.0
+"Total"	"Texas"	"48"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			225	11374068	2.0
+"Total"	"Texas"	"48"	"Female"	"F"	"2013"	"2013"					274	11374068	2.4
+"Total"	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			31	11631293	0.3
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"20-24 years"	"20-24"	15	968365	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	20	964505	2.1
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	15	970141	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	20	905532	2.2
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	22	919073	2.4
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	21	855640	2.5
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	39	891985	4.4
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	28	827845	3.4
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	15	699917	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	17	565923	Unreliable
+"Total"	"Texas"	"48"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			240	11631293	2.1
+"Total"	"Texas"	"48"	"Female"	"F"	"2014"	"2014"					280	11631293	2.4
+"Total"	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			51	11866510	0.4
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	14	991568	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	13	985448	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	34	930639	3.7
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	24	921153	2.6
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	29	872576	3.3
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	36	892185	4.0
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	31	846891	3.7
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	27	725752	3.7
+	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	17	595417	Unreliable
+"Total"	"Texas"	"48"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			263	11866510	2.2
+"Total"	"Texas"	"48"	"Female"	"F"	"2015"	"2015"					329	11866510	2.8
+"Total"	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by drowning and submersion"	"X71"			12	12043879	Unreliable
+"Total"	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			44	12043879	0.4
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"15-19 years"	"15-19"	11	961221	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"20-24 years"	"20-24"	20	968789	2.1
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"25-29 years"	"25-29"	21	1014955	2.1
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"30-34 years"	"30-34"	31	996323	3.1
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"35-39 years"	"35-39"	16	953265	Unreliable
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"40-44 years"	"40-44"	30	911913	3.3
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"45-49 years"	"45-49"	20	894707	2.2
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"50-54 years"	"50-54"	38	878271	4.3
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"55-59 years"	"55-59"	25	859405	2.9
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"60-64 years "	"60-64"	28	746108	3.8
+	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"65-69 years"	"65-69"	11	627634	Unreliable
+"Total"	"Texas"	"48"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			272	12043879	2.3
+"Total"	"Texas"	"48"	"Female"	"F"	"2016"	"2016"					338	12043879	2.8
+"Total"	"Texas"	"48"	"Female"	"F"							1483	58108782	2.6
+"Total"	"Texas"	"48"									1483	58108782	2.6
+"Total"	"Utah"	"49"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			23	1168149	2.0
+"Total"	"Utah"	"49"	"Female"	"F"	"2012"	"2012"					26	1168149	2.2
+"Total"	"Utah"	"49"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			24	1191364	2.0
+"Total"	"Utah"	"49"	"Female"	"F"	"2013"	"2013"					32	1191364	2.7
+"Total"	"Utah"	"49"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			24	1213039	2.0
+"Total"	"Utah"	"49"	"Female"	"F"	"2014"	"2014"					30	1213039	2.5
+"Total"	"Utah"	"49"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			30	1239031	2.4
+"Total"	"Utah"	"49"	"Female"	"F"	"2015"	"2015"					34	1239031	2.7
+"Total"	"Utah"	"49"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			36	1264091	2.8
+"Total"	"Utah"	"49"	"Female"	"F"	"2016"	"2016"					43	1264091	3.4
+"Total"	"Utah"	"49"	"Female"	"F"							165	6075674	2.7
+"Total"	"Utah"	"49"									165	6075674	2.7
+"Total"	"Vermont"	"50"	"Female"	"F"	"2013"	"2013"					10	286487	Unreliable
+"Total"	"Vermont"	"50"	"Female"	"F"							26	1432650	1.8
+"Total"	"Vermont"	"50"									26	1432650	1.8
+"Total"	"Virginia"	"51"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			44	3659887	1.2
+"Total"	"Virginia"	"51"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			25	3659887	0.7
+"Total"	"Virginia"	"51"	"Female"	"F"	"2012"	"2012"					80	3659887	2.2
+"Total"	"Virginia"	"51"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			59	3691107	1.6
+"Total"	"Virginia"	"51"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			32	3691107	0.9
+"Total"	"Virginia"	"51"	"Female"	"F"	"2013"	"2013"					97	3691107	2.6
+	"Virginia"	"51"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"55-59 years"	"55-59"	10	291720	Unreliable
+"Total"	"Virginia"	"51"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			48	3725225	1.3
+"Total"	"Virginia"	"51"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			30	3725225	0.8
+"Total"	"Virginia"	"51"	"Female"	"F"	"2014"	"2014"					88	3725225	2.4
+	"Virginia"	"51"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"	"45-49 years"	"45-49"	10	286707	Unreliable
+"Total"	"Virginia"	"51"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			61	3753099	1.6
+"Total"	"Virginia"	"51"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			25	3753099	0.7
+"Total"	"Virginia"	"51"	"Female"	"F"	"2015"	"2015"					97	3753099	2.6
+"Total"	"Virginia"	"51"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			51	3771251	1.4
+"Total"	"Virginia"	"51"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			47	3771251	1.2
+"Total"	"Virginia"	"51"	"Female"	"F"	"2016"	"2016"					114	3771251	3.0
+"Total"	"Virginia"	"51"	"Female"	"F"							476	18600569	2.6
+"Total"	"Virginia"	"51"									476	18600569	2.6
+"Total"	"Washington"	"53"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			42	3024561	1.4
+"Total"	"Washington"	"53"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			17	3024561	Unreliable
+"Total"	"Washington"	"53"	"Female"	"F"	"2012"	"2012"					64	3024561	2.1
+"Total"	"Washington"	"53"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			41	3053163	1.3
+"Total"	"Washington"	"53"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			22	3053163	0.7
+"Total"	"Washington"	"53"	"Female"	"F"	"2013"	"2013"					72	3053163	2.4
+	"Washington"	"53"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"	"50-54 years"	"50-54"	11	247144	Unreliable
+"Total"	"Washington"	"53"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			68	3093586	2.2
+"Total"	"Washington"	"53"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			11	3093586	Unreliable
+"Total"	"Washington"	"53"	"Female"	"F"	"2014"	"2014"					88	3093586	2.8
+	"Washington"	"53"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"	"60-64 years "	"60-64"	10	228933	Unreliable
+"Total"	"Washington"	"53"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			68	3144443	2.2
+"Total"	"Washington"	"53"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			17	3144443	Unreliable
+"Total"	"Washington"	"53"	"Female"	"F"	"2015"	"2015"					98	3144443	3.1
+"Total"	"Washington"	"53"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by drowning and submersion"	"X71"			12	3199151	Unreliable
+"Total"	"Washington"	"53"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			44	3199151	1.4
+"Total"	"Washington"	"53"	"Female"	"F"	"2016"	"2016"					68	3199151	2.1
+"Total"	"Washington"	"53"	"Female"	"F"							390	15514904	2.5
+"Total"	"Washington"	"53"									390	15514904	2.5
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			15	837987	Unreliable
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			11	837987	Unreliable
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2012"	"2012"					29	837987	3.5
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			11	837210	Unreliable
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2013"	"2013"					19	837210	Unreliable
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			22	835151	2.6
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2014"	"2014"					33	835151	4.0
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			12	831587	Unreliable
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			15	831587	Unreliable
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2015"	"2015"					29	831587	3.5
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			19	825378	Unreliable
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			17	825378	Unreliable
+"Total"	"West Virginia"	"54"	"Female"	"F"	"2016"	"2016"					38	825378	4.6
+"Total"	"West Virginia"	"54"	"Female"	"F"							148	4167313	3.6
+"Total"	"West Virginia"	"54"									148	4167313	3.6
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2012"	"2012"	"Intentional self-harm by handgun discharge"	"X72"			14	2532867	Unreliable
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2012"	"2012"					22	2532867	0.9
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2013"	"2013"	"Intentional self-harm by handgun discharge"	"X72"			21	2543276	0.8
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2013"	"2013"					32	2543276	1.3
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2014"	"2014"	"Intentional self-harm by handgun discharge"	"X72"			30	2554077	1.2
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2014"	"2014"					38	2554077	1.5
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2015"	"2015"	"Intentional self-harm by handgun discharge"	"X72"			36	2561442	1.4
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2015"	"2015"					47	2561442	1.8
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2016"	"2016"	"Intentional self-harm by handgun discharge"	"X72"			37	2566196	1.4
+"Total"	"Wisconsin"	"55"	"Female"	"F"	"2016"	"2016"					49	2566196	1.9
+"Total"	"Wisconsin"	"55"	"Female"	"F"							188	12757858	1.5
+"Total"	"Wisconsin"	"55"									188	12757858	1.5
+"Total"	"Wyoming"	"56"	"Female"	"F"	"2012"	"2012"					12	244154	Unreliable
+"Total"	"Wyoming"	"56"	"Female"	"F"	"2014"	"2014"					12	247595	Unreliable
+"Total"	"Wyoming"	"56"	"Female"	"F"	"2015"	"2015"					12	248400	Unreliable
+"Total"	"Wyoming"	"56"	"Female"	"F"	"2016"	"2016"					13	248431	Unreliable
+"Total"	"Wyoming"	"56"	"Female"	"F"							57	1235496	4.6
+"Total"	"Wyoming"	"56"									57	1235496	4.6
+"Total"											15592	710220987	2.2
+"---"
+"Dataset: Underlying Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Five-Year Age Groups: 10-14 years, 15-19 years, 20-24 years, 25-29 years, 30-34 years, 35-39 years, 40-44 years, 45-49 years,"
+"50-54 years, 55-59 years, 60-64 years , 65-69 years, 70-74 years, 75-79 years, 80-84 years, 85-89 years, 90-94 years, 95-99"
+"years, 100+ years"
+"Gender: Female"
+"Hispanic Origin: All"
+"ICD-10 Codes: X60 (Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X71"
+"(Intentional self-harm by drowning and submersion), X72 (Intentional self-harm by handgun discharge), X74 (Intentional self-harm"
+"by other and unspecified firearm discharge), X75 (Intentional self-harm by explosive material), X84 (Intentional self-harm by"
+"unspecified means), Y87.0 (Sequelae of intentional self-harm)"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Weekday: All"
+"Year/Month: 2012, 2013, 2014, 2015, 2016"
+"Group By: State, Gender, Year, Cause of death, Five-Year Age Groups"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Aug 11, 2018 5:15:54 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Aug 11, 2018 5:15:54 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The"
+"population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal"
+"series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for"
+"years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 -"
+"2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for"
+"1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age groups are the number"
+"of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published"
+"reports, due to use of the population estimates which were available at the time of release."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
